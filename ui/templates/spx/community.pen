@@ -597,7 +597,7 @@
                                   "type": "frame",
                                   "id": "G3Ls4",
                                   "name": "Frame 162689",
-                                  "fill": "$turquoise500",
+                                  "fill": "$turquoise300",
                                   "cornerRadius": 12,
                                   "stroke": {
                                     "align": "inside",
